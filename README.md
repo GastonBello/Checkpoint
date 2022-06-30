@@ -1,2 +1,1 @@
-# Checkpoint
 Gaston Bello
